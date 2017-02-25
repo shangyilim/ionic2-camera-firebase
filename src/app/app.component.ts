@@ -20,11 +20,11 @@ export class MyApp {
       Splashscreen.hide();
 
       const firebaseConfig = {
-        apiKey: "AIzaSyA-34tvPn0bpQ93VKqU0bHZqkeuKGCh2rc",
-        authDomain: "ionic-camera-firebase.firebaseapp.com",
-        databaseURL: "https://ionic-camera-firebase.firebaseio.com",
-        storageBucket: "ionic-camera-firebase.appspot.com",
-        messagingSenderId: "60462604107"
+        apiKey: "xxxxxxxxxxxxxxxx",
+        authDomain: "xxxxxxxaseapp.com",
+        databaseURL: "https://xxxxxxxxxeio.com",
+        storageBucket: "xxionic-camera-firebase.appspot.com",
+        messagingSenderId: "xxxxxxxxx"
 
       };
 
